@@ -16,7 +16,7 @@
 1. 确保已安装Go环境（1.16或更高版本）
 2. 克隆仓库到本地
    ```bash
-   git clone https://github.com/yourusername/ARP_Sniffer.git
+   git clone https://github.com/Arturia-yun/ARP_Sniffer.git
    cd ARP_Sniffer
    ```
 3. 安装依赖库
